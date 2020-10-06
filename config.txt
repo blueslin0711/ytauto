@@ -1,0 +1,4 @@
+##########  注意Key不能重复  ############
+# Headers
+chrome_driver=C:\Users\linzg_64\Desktop\ytauto\chromeDriver\chromedriver.exe
+cookie=JSESSIONID=yjKjf8hd7pYvvXh7hsxyTp2HyGG7VdKm0Xw9D8HXnt611PFJLTZ7!1110547715; EPCAS_TID=PGT-555702-40601020075D-j1FQytMdfkLsmmGDs7z8Qag5BimQZFvcQgxOWnlnnXacONO8GQ; JSESSIONID=oM78x6F_TQclJJjduDGa4pDMMby-YkA77B87aJL3sV5YjWdoCv_o!-1202925223; UM_distinctid=174fcc7a67a4c-0b3882a82b762d-383e5509-1fa400-174fcc7a67b17c; CNZZDATA3496066=cnzz_eid%3D117934507-1601968776-%26ntime%3D1601968776; showQrcode=Y; unReadCount=0; gateInFlag=; showTranscarrierQrcode=Y

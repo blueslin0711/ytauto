@@ -1,0 +1,203 @@
+订舱号“提单信息”查询：
+Request URL: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/findBillInfo.do?shipCode=NPO
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 180.167.29.54:80
+Referrer Policy: no-referrer-when-downgrade
+
+Cache-Control: no-cache, must-revalidate
+Connection: Keep-alive
+Content-Length: 605
+Content-Type: text/plain; charset=UTF-8
+Date: Tue, 29 Sep 2020 01:52:47 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Server: Apache/2.2.34 (Unix)
+Via: 1.1 ID-5301755341116374 uproxy-2
+X-Powered-By: Servlet/2.5 JSP/2.1
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7
+Connection: keep-alive
+Content-Length: 16
+Content-Type: application/x-www-form-urlencoded
+Cookie: JSESSIONID=pb52fyFCCRGTFL1PhnZ9FPh2VfFkktcBQBD616BjVwVPDjWpj7q1!-1556035624; EPCAS_TID=PGT-432773-40601020075D-u85Nj794elhkg0Rdki5uBnUutMU7FO3QHx4eXitRbB5rbKta6T; UM_distinctid=174cebf102919e-047b46a7ec0a05-58143518-1fa400-174cebf102a117; showQrcode=Y; showTranscarrierQrcode=Y; unReadCount=0; gateInFlag=; JSESSIONID=zMLXWyXDzeB6q92PT8mQ1HSTvC-s9fdCNyIIc1uCHbmFW4NicXrF!-1202925223; CNZZDATA3496066=cnzz_eid%3D1777890598-1601196461-%26ntime%3D1601340909
+Host: cloud.easipass.com
+Origin: http://cloud.easipass.com
+Referer: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/operate.do?shipCode=NPO&bookingno=204732375
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+
+shipCode: NPO
+
+billId: 401078500
+
+订舱号“打印通知单”查询：
+Request URL: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/findSuccessfulAppliedCtnrs.do?shipCode=NPO
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 180.167.29.54:80
+Referrer Policy: no-referrer-when-downgrade
+Cache-Control: no-cache, must-revalidate
+Connection: Keep-alive
+Content-Length: 336
+Content-Type: text/plain; charset=UTF-8
+Date: Tue, 29 Sep 2020 01:52:47 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Server: Apache/2.2.34 (Unix)
+Via: 1.1 ID-5301755341116374 uproxy-2
+X-Powered-By: Servlet/2.5 JSP/2.1
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7
+Connection: keep-alive
+Content-Length: 16
+Content-Type: application/x-www-form-urlencoded
+Cookie: JSESSIONID=pb52fyFCCRGTFL1PhnZ9FPh2VfFkktcBQBD616BjVwVPDjWpj7q1!-1556035624; EPCAS_TID=PGT-432773-40601020075D-u85Nj794elhkg0Rdki5uBnUutMU7FO3QHx4eXitRbB5rbKta6T; UM_distinctid=174cebf102919e-047b46a7ec0a05-58143518-1fa400-174cebf102a117; showQrcode=Y; showTranscarrierQrcode=Y; unReadCount=0; gateInFlag=; JSESSIONID=zMLXWyXDzeB6q92PT8mQ1HSTvC-s9fdCNyIIc1uCHbmFW4NicXrF!-1202925223; CNZZDATA3496066=cnzz_eid%3D1777890598-1601196461-%26ntime%3D1601340909
+Host: cloud.easipass.com
+Origin: http://cloud.easipass.com
+Referer: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/operate.do?shipCode=NPO&bookingno=204732375
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+
+shipCode: NPO
+
+billId: 401078500
+
+订舱号“历史申请记录”查询：
+Request URL: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/findApplies.do?shipCode=NPO
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 180.167.29.54:80
+Referrer Policy: no-referrer-when-downgrade
+Cache-Control: no-cache, must-revalidate
+Connection: Keep-alive
+Content-Length: 500
+Content-Type: text/plain; charset=UTF-8
+Date: Tue, 29 Sep 2020 01:52:47 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Server: Apache/2.2.34 (Unix)
+Via: 1.1 ID-5301755341116374 uproxy-2
+X-Powered-By: Servlet/2.5 JSP/2.1
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7
+Connection: keep-alive
+Content-Length: 16
+Content-Type: application/x-www-form-urlencoded
+Cookie: JSESSIONID=pb52fyFCCRGTFL1PhnZ9FPh2VfFkktcBQBD616BjVwVPDjWpj7q1!-1556035624; EPCAS_TID=PGT-432773-40601020075D-u85Nj794elhkg0Rdki5uBnUutMU7FO3QHx4eXitRbB5rbKta6T; UM_distinctid=174cebf102919e-047b46a7ec0a05-58143518-1fa400-174cebf102a117; showQrcode=Y; showTranscarrierQrcode=Y; unReadCount=0; gateInFlag=; JSESSIONID=zMLXWyXDzeB6q92PT8mQ1HSTvC-s9fdCNyIIc1uCHbmFW4NicXrF!-1202925223; CNZZDATA3496066=cnzz_eid%3D1777890598-1601196461-%26ntime%3D1601340909
+Host: cloud.easipass.com
+Origin: http://cloud.easipass.com
+Referer: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/operate.do?shipCode=NPO&bookingno=204732375
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+
+shipCode: NPO
+
+billId: 401078500
+
+订舱号“货代申请信息”查询：
+Request URL: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/findCarrierApplyInfo.do?shipCode=NPO
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 180.167.29.54:80
+Referrer Policy: no-referrer-when-downgrade
+Cache-Control: no-cache, must-revalidate
+Connection: Keep-alive
+Content-Length: 82
+Content-Type: text/plain; charset=UTF-8
+Date: Tue, 29 Sep 2020 01:52:47 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Server: Apache/2.2.34 (Unix)
+Via: 1.1 ID-5301755341116374 uproxy-2
+X-Powered-By: Servlet/2.5 JSP/2.1
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7
+Connection: keep-alive
+Content-Length: 16
+Content-Type: application/x-www-form-urlencoded
+Cookie: JSESSIONID=pb52fyFCCRGTFL1PhnZ9FPh2VfFkktcBQBD616BjVwVPDjWpj7q1!-1556035624; EPCAS_TID=PGT-432773-40601020075D-u85Nj794elhkg0Rdki5uBnUutMU7FO3QHx4eXitRbB5rbKta6T; UM_distinctid=174cebf102919e-047b46a7ec0a05-58143518-1fa400-174cebf102a117; showQrcode=Y; showTranscarrierQrcode=Y; unReadCount=0; gateInFlag=; JSESSIONID=zMLXWyXDzeB6q92PT8mQ1HSTvC-s9fdCNyIIc1uCHbmFW4NicXrF!-1202925223; CNZZDATA3496066=cnzz_eid%3D1777890598-1601196461-%26ntime%3D1601340909
+Host: cloud.easipass.com
+Origin: http://cloud.easipass.com
+Referer: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/operate.do?shipCode=NPO&bookingno=204732375
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+
+shipCode: NPO
+
+billId: 401078500
+
+
+
+打印通知书：
+Request URL: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/print.do?shipCode=NPO
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 180.167.29.54:80
+Referrer Policy: no-referrer-when-downgrade
+Cache-Control: no-cache, must-revalidate
+Connection: Keep-alive
+Content-Length: 1040
+Content-Type: text/plain; charset=UTF-8
+Date: Tue, 29 Sep 2020 02:52:09 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Server: Apache/2.2.34 (Unix)
+Via: 1.1 ID-5301755341116374 uproxy-2
+X-Powered-By: Servlet/2.5 JSP/2.1
+
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7
+Connection: keep-alive
+Content-Length: 778
+Content-Type: application/x-www-form-urlencoded
+Cookie: JSESSIONID=pb52fyFCCRGTFL1PhnZ9FPh2VfFkktcBQBD616BjVwVPDjWpj7q1!-1556035624; EPCAS_TID=PGT-432773-40601020075D-u85Nj794elhkg0Rdki5uBnUutMU7FO3QHx4eXitRbB5rbKta6T; UM_distinctid=174cebf102919e-047b46a7ec0a05-58143518-1fa400-174cebf102a117; showQrcode=Y; showTranscarrierQrcode=Y; unReadCount=0; gateInFlag=; JSESSIONID=zMLXWyXDzeB6q92PT8mQ1HSTvC-s9fdCNyIIc1uCHbmFW4NicXrF!-1202925223; CNZZDATA3496066=cnzz_eid%3D1777890598-1601196461-%26ntime%3D1601347743
+Host: cloud.easipass.com
+Origin: http://cloud.easipass.com
+Referer: http://cloud.easipass.com/mskeir2/mskCarrierApplyCtnr.do/operate.do?shipCode=NPO&bookingno=204659855
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+
+shipCode: NPO
+
+data: {"areaCode":"","location":"NPO","billId":401164700,"ctnrs":[{"cyCode":"HDHSDC","status":"5","statusName":"已打印","printType":"PDF","applyTime":"20200928133202","barcode":"0041*****6894","transPortCode":"EGPSD","id":806166894,"ctnUser":"","username":"40601020075D","cyName":"宏达后所堆场","enabledEeir":false,"ctnType":"20DRY","printNum":2,"applicantCode":"40601020075"}],"printType":"paper","sendType":"DIAODU","orgId":"000","isShowApplicant":false}
+
+
+响应结果：
+{"ctnrs":[{"gRemark":"","deliveryCode":"EGALDTM","logId":73920979499,"remark":"","location":"NPO","showBarcode":true,"no":"1/1","placeOfReturn":"四期码头","dockRsvno":"","depot":"宏达后所堆场 宁波市北仑区柴桥街道后所村（华论工业园内） 0574-86901522","contractNo":"","shipCompanySignet":"http://edi.easipass.com/images/gongzhang_msk_180509.png","ctnType":"20\u0027DRY","depotNumber":"","ctnPrefix":"","vesselVoyage":"MAERSKHAVANA V.039W","vessel":"MAERSKHAVANA","shipCompanyLogo":"http://edi.easipass.com/images/logo_msk_180509.jpg","printDate":"2020-09-29","vesselUnCode":"UN9784336","barcode":"00512806166894","transcarrier":"40601020075 浙江兴港国际货运代理有限公司 0574-27691910","transPortCode":"中转港:EGPSD","shipCompanyLogoRemark":"MAEU","ctnrAlertMsg":"","shipCompanyName":"马士基（上海）船务管理咨询有限公司","voyage":"039W","oldBarcode":"00417806166894","ctnOprCode":"MAEU","validDate":"2020-09-30 11:33","ctnrId":806166894,"bookingno":"204659855"}],"success":true}
+达飞：
+-----------------------------------------------
+Request URL: http://cloud.easipass.com/cmaeir2/cmaNpoCarrierApplyCtnr.do/print.do?shipCode=CMA_NPO
+Request Method: POST
+Status Code: 200 OK
+Remote Address: 180.167.29.54:80
+Referrer Policy: strict-origin-when-cross-origin
+Connection: Keep-alive
+Content-Length: 1722
+Content-Type: text/html
+Date: Tue, 06 Oct 2020 08:11:20 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Server: Apache/2.2.34 (Unix)
+Via: 1.1 ID-5301755341116374 uproxy-2
+X-Powered-By: Servlet/2.4 JSP/2.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7
+Connection: keep-alive
+Content-Length: 447
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Cookie: JSESSIONID=hrXZf8hDRGj5bdsrNnLhZSPsd212zxrVGdk1f2pJPDLzbDGjw2cL!970372115; EPCAS_TID=PGT-555839-40600037052-06Gy2JmspNQHwnThUftN4dUNAomi6RPBP80kooh9DUNZxXuqnM; UM_distinctid=174cebf102919e-047b46a7ec0a05-58143518-1fa400-174cebf102a117; showQrcode=Y; showTranscarrierQrcode=Y; JSESSIONID=QtX84ihNh2UODT3jpWPWTMNNZ5kCVsJzJOi2t9SU8tN_UImELZvC!-1202925223; CNZZDATA3496066=cnzz_eid%3D1777890598-1601196461-%26ntime%3D1601970514; unReadCount=0; gateInFlag=
+Host: cloud.easipass.com
+Origin: http://cloud.easipass.com
+Referer: http://cloud.easipass.com/cmaeir2/cmaNpoCarrierApplyCtnr.do/operate.do?shipCode=CMA_NPO&bookingno=NBRF006043
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+shipCode: CMA_NPO
+data: {"location":"CMA_NPO","billId":5120572168,"ctnrs":[{"printNum":1,"username":"40600037052","ctnType":"40HC","statusName":"已打印","applicantCode":"RENFENGGJ","status":"5","barcode":"1072*****1895","applyTime":"2020-10-06 15:57:30","id":36915121895}],"printType":"PAPER"}
+响应结果：
+{"feeIdByEP":"0","success":true,"pdfuuid":"4028fdde74ddeaf10174fcf70145032b","ctnrs":[{"cmaExtraMsg":"1.叙利亚/伊朗货物/古巴/ 40HC往MXPGO货物的放箱要求：仅可发放以下租箱公司的箱子BLUE SKY / SOGECO / BRIDGEHEAD/ JAY/ SOGELEASE/ BRUCIA /MAGELLAN/TOUAX/CARU/RAFFLES/UES/CRONOS/SEACO/UNITAS（常见的箱头有BSIU/CRXU/CXDU/CRSU/ GLDU/GESU/GSTU/SEGU/SKIU/SCZU）。且伊朗货物严禁使用APL正牌箱和带有APL图标（含大标和小标）的集装箱。叙利亚五字码为SYXXX ,主要港口有SYTTS,SYLTK,SYALP,SYDAM等；伊朗五字码为IRXXX，主要港口有IRBSR/IRBUZ/IRKHO/IRZBR/IRBND；古巴五字码为CUXXX，主要港口有CUMAR，CUSCU；MXPGO港口五字码为MXPGO且箱型为40HC； \r\n 2.所有目的港（及目的地）为委内瑞拉（港口五字码为VExxx）的货物，请发放箱龄在8年或8年以上的集装箱。 \r\n 3.所有目的港（及目的地）为孟加拉国的货物：禁放箱头为HJCU/HJSU/SENU的集装箱。孟加拉国五字码为BDXXX，主要港口有BDCGP,BDDAC等。","yardName":"通达堆场","delivery":"MZMNC","vesselVoyage":"SAN FERNANDO 042S","transcarrier":"宁波市仁丰国际货运代理有限公司","ctnType":"40HC","jingyinren":"CMA","contractNo":"","shipCompanyLogo":"http://edi.easipass.com/images/logo_cma_color.jpg","validDate":"2020-10-06 16:11:20 ~ 2020-10-08 16:09:37","printDate":"2020-10-06","deliveryCode":"MZMNC","POD/FPOD":"MZMNC / MZMNC","shipCompanySignet":"http://edi.easipass.com/images/CMANPO_TUZHANG.jpg","depot":"通达堆场","oldBarcode":"1072036915121895","ctnPrefix":"","handYardRemark":"","bookingno":"NBRF006043","location":"CMA_NPO","barcode":"1080636915121895","ctnrId":"36915121895"}]}
+------------------------------------------------
+
